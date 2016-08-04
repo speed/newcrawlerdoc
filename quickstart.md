@@ -1,9 +1,8 @@
 # Quick Start
 
 
-* Install
-
-----
+* 
+### Install
 
 Installing software packages on Centos / Fedora servers:
 ```
@@ -51,9 +50,8 @@ javax.jdo.option.ConnectionPassword=123456
 	
 ```
 
-* Install on Docker
-
-----
+* 
+### Install on Docker
 
 ```
 docker pull newcrawler/spider
@@ -62,9 +60,9 @@ docker logs -f newcrawler
 ```
 
 	
-* Startup
+* 
+### Startup
 
-----
 ```
 sh newcrawler/start.sh &
 ```
