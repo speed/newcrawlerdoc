@@ -1,6 +1,6 @@
 # Quick Start
 
-Install Test
+Install
 ----
 
 Installing software packages on Centos / Fedora servers:
