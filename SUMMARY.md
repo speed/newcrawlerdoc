@@ -3,5 +3,5 @@
 * [Home](README.md)
 * [Introduction](index.md)
 * [Quick Start](quickstart.md)
-* FAQ
+* [FAQ](faq.md)
 
