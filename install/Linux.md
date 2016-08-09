@@ -1,5 +1,5 @@
 
-* 
+
 ### Install
 
 Installing software packages on Centos / Fedora servers:
@@ -48,17 +48,7 @@ javax.jdo.option.ConnectionPassword=123456
 	
 ```
 
-* 
-### Install on Docker
-
-```
-docker pull newcrawler/spider
-docker run -itd -p 8500:8500 --name=newcrawler newcrawler/spider
-docker logs -f newcrawler
-```
-
 	
-* 
 ### Startup
 
 ```
