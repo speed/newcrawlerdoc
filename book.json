@@ -1,23 +1,15 @@
 {
-    "plugins": [
-    "-sharing", 
-    "-search"],
-    "pluginsConfig": {},
-    // Links in template (null: default, false: remove, string: new value)
+    "author": "Speed <speed@newcrawler.com>",
+    "description": "NewCrawler Doc",
+    "extension": null,
+    "generator": "site",
+    "isbn": null,
     "links": {
-        // Link to home in the top-left corner
-        "home": null,
-
-        // Links in top of sidebar
-        "about": false,
-        "issues": false,
-        "contribute": false,
-
-        // Sharing links
-        "sharing": {
-            "google": false,
-            "facebook": false,
-            "twitter": false
+        "sidebar": {
+            "NewCrawler": "http://www.newcrawler.com"
         }
-    }
+    },
+    "output": null,
+    "plugins": ["-sharing", "-search"],
+    "pluginsConfig": {}
 }
