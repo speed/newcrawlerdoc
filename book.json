@@ -1,4 +1,4 @@
 {
-    "plugins": ["-sharing"],
+    "plugins": ["-sharing", "-search"],
     "pluginsConfig": {}
 }
