@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Introduction](index.md)
-* [Install](install.md)
+* Install
 * [Quick Start](quickstart.md)
 * [FAQ](faq.md)
 
