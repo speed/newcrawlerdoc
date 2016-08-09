@@ -3,7 +3,7 @@
 * [Home](README.md)
 * [Introduced](introduced.md)
 * Install
-   * [Install](install.md)
+   * [Install on Linux](install.md)
    * [Install on GAE](安装/Google App Engine.md)
    * [Install on OpenShift](安装/OpenShift.md)
 * [Quick Start](quickstart.md)
