@@ -7,4 +7,5 @@
    * [Install on OpenShift](安装/OpenShift.md)
 * [Quick Start](quickstart.md)
 * [FAQ](faq.md)
+* Introduced
 
