@@ -1,15 +1,4 @@
 {
-    "author": "Speed <speed@newcrawler.com>",
-    "description": "NewCrawler Doc",
-    "extension": null,
-    "generator": "site",
-    "isbn": null,
-    "links": {
-        "sidebar": {
-            "NewCrawler": "http://www.newcrawler.com"
-        }
-    },
-    "output": null,
-    "plugins": ["-sharing", "-search"],
+    "plugins": [],
     "pluginsConfig": {}
 }
