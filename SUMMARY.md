@@ -9,4 +9,5 @@
    * [Install on OpenShift](install/OpenShift.md)
 * [Quick Start](quickstart.md)
 * [FAQ](faq.md)
+* Plugin
 
