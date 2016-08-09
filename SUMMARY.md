@@ -8,6 +8,6 @@
    * [Install on GAE](install/Google App Engine.md)
    * [Install on OpenShift](install/OpenShift.md)
 * [Quick Start](quickstart.md)
-* [FAQ](faq.md)
 * [Plugin](plugin.md)
+* [FAQ](faq.md)
 
