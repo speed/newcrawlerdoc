@@ -1,4 +1,12 @@
 {
-    "plugins": [],
+    "author": "Speed <speed@newcrawler.com>",
+    "description": "NewCrawler Doc",
+    "links": {
+        "sidebar": {
+            "NewCrawler": "http://www.newcrawler.com"
+        }
+    },
+    "output": null,
+    "plugins": ["-sharing", "-search"],
     "pluginsConfig": {}
 }
