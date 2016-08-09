@@ -1,6 +1,6 @@
-# NewCrawler
+# 鸟巢采集器
 
-Free Web Scraping Tool.
+免费的网页数据采集工具。
 
 http://www.newcrawler.com
 
