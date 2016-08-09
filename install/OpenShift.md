@@ -44,7 +44,7 @@ OpenShift上安装鸟巢采集客户端应用
 
 5. 使用 `Puttygen.exe` 生成秘钥，如下图：
 
-  ![keygen.png](static/img/openshift/keygen.png)
+  ![keygen.png](/static/img/openshift/keygen.png)
   
   <br />
 
@@ -52,7 +52,7 @@ OpenShift上安装鸟巢采集客户端应用
 
 		复制 `Public key` 到 `Paste the contents of your public key file (.pub)` 下方的文本域中，再点击保存。
 
-  ![paste-save.png](static/img/openshift/paste-save.png)
+  ![paste-save.png](/static/img/openshift/paste-save.png)
   
   <br />
 
@@ -66,13 +66,13 @@ OpenShift上安装鸟巢采集客户端应用
 
 		如： `D:\git_openshift\qiw_spider` ，打开此文件夹，鼠标右击选择  `Git Clone…`，如图：
 
-  ![git-clone.jpg](static/img/openshift/git-clone.jpg)
+  ![git-clone.jpg](/static/img/openshift/git-clone.jpg)
   
   <br />
 
 2. Git Clone
 
-  ![git-clone-code.png](static/img/openshift/git-clone-code.png)
+  ![git-clone-code.png](/static/img/openshift/git-clone-code.png)
   
   <br />
 
@@ -81,17 +81,17 @@ OpenShift上安装鸟巢采集客户端应用
 		删除 `D:\git_openshift\qiw_spider\spider\src\main\webapp` 下的所有文件
 		复制鸟巢采集器代码到 `D:\git_openshift\qiw_spider\spider\src\main\webapp` 
 		右击空白区域，执行 `Git Sync…`
-  ![sync.jpg](static/img/openshift/sync.jpg)
+  ![sync.jpg](/static/img/openshift/sync.jpg)
 
-  ![deploy.jpg](static/img/openshift/deploy.jpg)
+  ![deploy.jpg](/static/img/openshift/deploy.jpg)
 
   `Git Sync`
 
-  ![deploy-commit.jpg](static/img/openshift/deploy-commit.jpg)
+  ![deploy-commit.jpg](/static/img/openshift/deploy-commit.jpg)
 
   `Commit`
 
-  ![deploy-push.jpg](static/img/openshift/deploy-push.jpg)
+  ![deploy-push.jpg](/static/img/openshift/deploy-push.jpg)
 
   `Push`
 
@@ -99,13 +99,13 @@ OpenShift上安装鸟巢采集客户端应用
 
 1. `OpenShift` 的 `Applications` 页安装 `MySQL`、`phpMyAdmin`，如:
 
-  ![applications.png](static/img/openshift/applications.png)
+  ![applications.png](/static/img/openshift/applications.png)
   
   <br />
 
 2. 访问“<http://spider-qiw.rhcloud.com/>”开始安装鸟巢采集器
 
-  ![install.png](static/img/openshift/install.png)
+  ![install.png](/static/img/openshift/install.png)
   
   <br />
 
