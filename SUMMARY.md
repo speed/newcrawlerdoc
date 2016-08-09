@@ -6,7 +6,7 @@
    * [Install on Linux](install/install.md)
    * [Install on GAE](安装/Google App Engine.md)
    * [Install on OpenShift](install/OpenShift.md)
-   * Install on Docker
+   * [Install on Docker](install/Docker.md)
 * [Quick Start](quickstart.md)
 * [FAQ](faq.md)
 
