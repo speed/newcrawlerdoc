@@ -10,7 +10,6 @@
 * * *
 
 <h2 id="urlfetch">网址抓取插件</h2>
-<br/>
 
  [代理池](https://github.com/speed/newcrawler-plugin-urlfetch-proxypool)
  
@@ -31,31 +30,25 @@
  
    在网址抓取时，使用phantomjs来解析JavaScript
    
-<br/>
 
 <h2 id="datafilter">数据过滤插件</h2>
 
-<br/>
 
  [数据过滤DEMO](https://github.com/speed/newcrawler-plugin-datafilter-demo)
  
    对匹配的数据有比较复杂的过滤需求时，可以使用数据过滤插件
 
-<br/>
 
 <h2 id="filesave">文件保存插件</h2>
 
-<br/>
 
  [保存文件到本地](https://github.com/speed/newcrawler-plugin-filesave-local)
  
    对抓取到的图片等资源，可以使用此插件保存到本地
 
-<br/>
 
 <h2 id="datadeploy">数据发布插件</h2>
 
-<br/>
 
  [JDBC发布数据](https://github.com/speed/newcrawler-plugin-datadeploy-jdbc)
 
