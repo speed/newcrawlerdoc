@@ -6,7 +6,6 @@
             "NewCrawler": "http://www.newcrawler.com"
         }
     },
-    "output": null,
     "plugins": ["-sharing", "-search"],
     "pluginsConfig": {}
 }
