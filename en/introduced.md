@@ -52,4 +52,4 @@
 如要将匹配的数据通过`JDBC`发布时可以编写`数据发布插件`。
 ```
 
-![nc.jpg](static/img/index/nc.jpg)
+![nc.jpg](/static/img/index/nc.jpg)
