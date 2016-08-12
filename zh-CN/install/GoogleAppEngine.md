@@ -17,7 +17,7 @@ Google App Engine上安装鸟巢采集客户端应用
 
 <https://appengine.google.com>
 
-![create_app2.jpg](../../static/img/gae/create_app2.jpg)
+![create_app2.jpg](/static/img/gae/create_app2.jpg)
 
 
 <h2 id="deploy">发布到Google App Engine</h2>
