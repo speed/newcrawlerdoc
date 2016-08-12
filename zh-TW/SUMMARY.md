@@ -5,7 +5,7 @@
 * 安装
    * [安装在 Linux](install/Linux.md)
    * [安装在 Docker](install/Docker.md)
-   * [安装在 GAE](install/Google App Engine.md)
+   * [安装在 GAE](install/GoogleAppEngine.md)
    * [安装在 OpenShift](install/OpenShift.md)
 * [快速开始](quickstart.md)
 * [插件](plugin.md)
