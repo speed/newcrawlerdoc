@@ -9,3 +9,5 @@ http://www.newcrawler.com
 
 
 [![ScreenShot](https://bwh1.net/templates/organicbandwagon/images/logo.png)](https://bandwagonhost.com/aff.php?aff=46105)
+
+2012~2020 © NewCrawler <A href="http://beian.miit.gov.cn/" rel="nofollow">粤ICP备15006720号-1</A>
